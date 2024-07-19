@@ -1,11 +1,9 @@
-Здравствуйте!это ваш помошник в Ozon Бане. Я,вам постараюсь помоч!Опешите вашу проблему. при возможнасти предоставте скиншот.
-Подождине пожалуйста пару минут или чуть-чуть побольше.
-- вот что я смог найти по вашей проблеме.
-  Прошу опешите как это произошло. 2 Прошу вас предоставить списания средст.3 Можно скрин шот, и перениску с мошейником если вы уверены что это мошейники. Мы обезательно вам поможем. оставте вашу электроную почту что бы мы могл свизаца с ваим.
-Вы могли ба бредоставить выписку с банка Ozon  какая сумма бала списана.
-- ⚡ Мы занимаемся вашей проблемой бутье добы подождать, блогадарю.
+### Well hello there!
 
-Простите! я не чего не нашол по вашему зопросу.1 Если вы перевели деньги мошейникам то вам сюда,...... Если вам перевели незнакомые люди денежные средства то вам сюда,....... Вы случайно потратил, или перевели не туда ва сюда,....
-Ваш банк Ozon поможет вам с ваше проблемой.
-Здравствуйте! мой многоуважаемый пользователь Ozon Банка. Мы рады вас преветствовать на нашем сайте. Техслужба поможет вам в ближайшее время ожидайти. 
-Вот чем я смог вам помоч. 
+This repository is meant to provide an example for *forking* a repository on GitHub.
+
+Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
+
+After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
+
+For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
